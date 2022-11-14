@@ -327,10 +327,32 @@
           null
         ]
       },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/models/outing.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/models/contestant_outing.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/controllers/contestants_controller.rb": {
         "lines": [
           1,
           1,
+          0,
+          0,
+          null,
+          null,
           1,
           1,
           null,
@@ -344,6 +366,6 @@
         ]
       }
     },
-    "timestamp": 1668435058
+    "timestamp": 1668436142
   }
 }
