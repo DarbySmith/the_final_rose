@@ -283,6 +283,7 @@
           null,
           1,
           1,
+          1,
           null,
           null
         ]
@@ -300,8 +301,129 @@
           null
         ]
       },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/spec/features/bachelorettes/contestants/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/spec/features/bachelorettes/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/spec/features/outings/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/spec/models/bachelorette_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/models/bachelorette.rb": {
         "lines": [
+          1,
+          1,
           1,
           1,
           null,
@@ -316,24 +438,15 @@
           null
         ]
       },
-      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/models/contestant.rb": {
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/spec/models/contestant_outing_spec.rb": {
         "lines": [
-          1,
-          1,
-          1,
           1,
           null,
           1,
-          null
-        ]
-      },
-      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/models/outing.rb": {
-        "lines": [
           1,
-          1,
-          1,
+          2,
+          2,
           null,
-          1,
           null
         ]
       },
@@ -345,12 +458,106 @@
           null
         ]
       },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/spec/models/contestant_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/models/contestant.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/spec/models/outing_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          6,
+          6,
+          null,
+          6,
+          6,
+          6,
+          null,
+          6,
+          6,
+          6,
+          6,
+          null,
+          6,
+          6,
+          null,
+          6,
+          6,
+          6,
+          null,
+          6,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/models/outing.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/controllers/contestants_controller.rb": {
         "lines": [
           1,
           1,
-          0,
-          0,
+          1,
+          1,
           null,
           null,
           1,
@@ -364,8 +571,26 @@
           1,
           null
         ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/controllers/bachelorettes_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/darbysmith/turing_work/2mod/practice/the_final_rose/app/controllers/outings_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1668436142
+    "timestamp": 1668439506
   }
 }

@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe 'bachelorette show page' do
+RSpec.describe 'bachelorette contestants index page' do
   before(:each) do
     @bach_1 = Bachelorette.create!(name: "Hannah Brown", season_number: 11, description: "Most dramatic season yet")
     @bach_2 = Bachelorette.create!(name: "Clare Crawley", season_number: 13, description: "Truly the most dramatic season yet")
